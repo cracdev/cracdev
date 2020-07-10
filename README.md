@@ -8,8 +8,8 @@ he has more than 15 years of experience working with creative agencies and nears
 
 
 ## Featured personal projects
-- [crac.io](crac.io) / personal website
-- [buzzpad](buzzpad.site) / PWA (Mobile) Feed reader for ProductHunt, HackerNews, DesignNews, FrontEndFront, EchoJs, Lobsters
+- [crac.io](https://crac.io) / personal website
+- [buzzpad](https://buzzpad.site) / PWA (Mobile) Feed reader for ProductHunt, HackerNews, DesignNews, FrontEndFront, EchoJs, Lobsters
 
 ## Resume
 - [Resume Online](https://crac.io/resume) 
