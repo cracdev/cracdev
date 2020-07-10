@@ -1,4 +1,4 @@
-# Hi I'm Andres 👋 dev / designer / geek / I ❤️JS, ⚛️ / 🇨🇷
+# Hi I'm Andres 👋 I ❤️JS, ⚛️ | 🇨🇷
 
 
 **Andres Castro** lives in **San José, Costa Rica** 🇨🇷 is a software developer
