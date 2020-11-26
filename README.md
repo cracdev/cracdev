@@ -9,10 +9,10 @@ he has more than 15 years of experience working with creative agencies and nears
 
 ## Featured personal projects
 - [crac.dev](https://crac.dev) / personal website
-- [buzzpad](https://buzzpad.site) / PWA (Mobile) Feed reader for ProductHunt, HackerNews, DesignNews, FrontEndFront, EchoJs, Lobsters
+- [newspad](https://newspad.tech) / PWA (Mobile) Feed reader for ProductHunt, HackerNews, DesignNews, FrontEndFront, EchoJs, Lobsters
 
 ## Resume
-- [Resume Online](https://crac.dev/resume) 
+- [Resume Online](https://crac.dev/resume-full) 
 - [Linkedin](https://www.linkedin.com/in/cracdev) 
 
 ## Social, you can find me at
