@@ -13,10 +13,10 @@ high-quality solutions that meet and exceed client expectations.
 
 ## Featured personal projects
 - [crac.dev](https://crac.dev) / personal website
-- [newspad](https://newspad.dev) / PWA (Mobile) Feed reader for ProductHunt, HackerNews, DesignNews, FrontEndFront, EchoJs, Lobsters
+- [newspad](https://newspad.crac.dev) / PWA (Mobile) Feed reader for ProductHunt, HackerNews, DesignNews, FrontEndFront, EchoJs, Lobsters
 
 ## Resume
-- [Resume Online](https://crac.dev/resume-full) 
+- [Resume Online](https://crac.dev/resume) 
 - [Linkedin](https://www.linkedin.com/in/cracdev) 
 
 ## Social, you can find me at
