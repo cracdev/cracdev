@@ -1,14 +1,11 @@
 # Hi I'm Andres 👋 I ❤️JS, ⚛️ | 🇨🇷
 
 
-**Andres Castro** lives in **San José, Costa Rica** 🇨🇷 is a results-driven software developer with over 18 years of experience
-creating innovative web applications and user interfaces for clients around the world.
-With a specialization in development stacks like JavaScript (React, Vue, NodeJS),
-he has a proven track record of delivering cutting-edge projects on time and on budget.
-In addition to his technical skills, Andres is also a skilled UI/UX designer with a solid knowledge
-of the latest design trends and best practices. He has worked with a variety of clients,
-including major creative agencies and nearshore companies, Andres is passionate about delivering
-high-quality solutions that meet and exceed client expectations.
+Andrés has 20 years of experience in software development. He also has a strong track record with creative agencies and nearshore firms.
+
+His mastery in software development and expertise in web and mobile apps let him guide clients from strategy to successful implementation. This ensures solutions that are both innovative and sustainable. Andrés can help you. He can modernize legacy systems, launch new digital products, or optimize development processes. He provides strategic insight and technical leadership.
+
+Ready to turn your vision into a stunning reality? Let's discuss how my expertise can elevate your next web project.
 
 
 ## Featured personal projects
